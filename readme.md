@@ -6,6 +6,7 @@ Install Let's Encrypt SSL on RunCloud.io servers
 ### Installation
 ```bash
 pip install rcssl
+pip install git+https://github.com/jason-ennis/runcloud-letsencrypt/rcssl
 ```
 
 ### Usage
